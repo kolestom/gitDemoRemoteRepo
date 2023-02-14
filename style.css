@@ -38,6 +38,6 @@ img, picture, svg, video {
 
 p {
     text-shadow: var(--text-border);
-    color: white;
+    color: red;
     font-size: 5rem;
 }
